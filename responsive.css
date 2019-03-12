@@ -1,0 +1,46 @@
+/*スマホ*/
+@media all and(max-width:480px){
+
+  .coffee-wrapper{
+    width:100%;
+  }
+
+.top-wrapper{
+  text-align:left;
+}
+
+.header-right{
+  display:none;
+}
+
+.coffee-item{
+  display:block;
+}
+
+.top-wrapper h1{
+  font-size:20px;
+}
+
+.top-wrapper p{
+  font-size:14px;
+}
+
+}
+
+/*タブレット*/
+@media all and(mac-width:1024px){
+
+.coffee-wrapper{
+  width:50%;
+  margin-bottom:50px;
+}
+
+.top-wrapper h1{
+  font-size:32px;
+}
+
+.top-wrapper p{
+  font-size:20px;
+}
+
+}
