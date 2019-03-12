@@ -15,6 +15,7 @@
 
 .coffee-item{
   display:block;
+  padding-right:15px;
 }
 
 .top-wrapper h1{
